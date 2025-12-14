@@ -2,6 +2,7 @@
 
 A complete, interactive simulation system for demonstrating and experimenting with the classic Readers-Writers synchronization problem in Operating Systems. Features a modern, animated GUI with real-time visualization of thread behavior.
 
+![Screenshot](https://via.placeholder.com/800x450/4CAF50/FFFFFF?text=Readers-Writers+Simulation+Screenshot)
 
 ## 📋 Table of Contents
 - [Features](#features)
